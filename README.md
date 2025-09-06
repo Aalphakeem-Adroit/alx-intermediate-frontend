@@ -44,7 +44,7 @@ This project focuses on building a solid foundation in **Semantic HTML** while e
    ```bash
    git clone https://github.com/Aalphakeem-Adroit/alx-intermediate-frontend.git
    cd alx-intermediate-frontend
-````
+    ````
 
 2. Open any task folder in your browser or editor.
 3. Build and enhance step by step, following the incremental tasks.
